@@ -152,7 +152,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
 - [extract-llms-docs](https://github.com/nirholas/extract-llms-docs) - Extracts documentation for AI agents from any site with llms.txt support. MCP server, REST API, batch processing and multiple export formats.
 
-
 ## Communities & Job Boards
 
 - [Vibehackers](https://vibehackers.io) - Community gallery for vibe coded projects and curated job board.
